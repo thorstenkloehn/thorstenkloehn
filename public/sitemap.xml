@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-03-30T00:52:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/datenschutz/</loc>
+    <loc>https://example.org/datenschutz/</loc>
     <lastmod>2024-03-30T00:05:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/impressum/</loc>
+    <loc>https://example.org/impressum/</loc>
     <lastmod>2024-03-29T22:25:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
