@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://thorstenkloehn.github.io/thorstenkloehn/</loc>
     <lastmod>2024-03-30T00:52:28+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/datenschutz/</loc>
+    <loc>https://thorstenkloehn.github.io/thorstenkloehn/datenschutz/</loc>
     <lastmod>2024-03-30T00:05:23+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/impressum/</loc>
+    <loc>https://thorstenkloehn.github.io/thorstenkloehn/impressum/</loc>
     <lastmod>2024-03-29T22:25:10+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://thorstenkloehn.github.io/thorstenkloehn/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://thorstenkloehn.github.io/thorstenkloehn/tags/</loc>
   </url>
 </urlset>
