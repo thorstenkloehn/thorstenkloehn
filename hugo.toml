@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://thorstenkloehn.github.io/thorstenkloehn/'
 languageCode = 'de'
 title = 'Mein Profil Seite'
 theme = ["github.com/thorstenkloehn/ahrensburg-theme-hugo"]

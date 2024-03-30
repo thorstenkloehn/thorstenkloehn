@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Startseite on Mein Profil Seite</title>
-    <link>https://thorstenkloehn.github.io/thorstenkloehn/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Startseite on Mein Profil Seite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sat, 30 Mar 2024 00:05:23 +0100</lastBuildDate>
-    <atom:link href="https://thorstenkloehn.github.io/thorstenkloehn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenschutz</title>
-      <link>https://thorstenkloehn.github.io/thorstenkloehn/datenschutz/</link>
+      <link>//localhost:1313/datenschutz/</link>
       <pubDate>Sat, 30 Mar 2024 00:05:23 +0100</pubDate>
-      <guid>https://thorstenkloehn.github.io/thorstenkloehn/datenschutz/</guid>
+      <guid>//localhost:1313/datenschutz/</guid>
       <description>Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:&#xA;Thorsten Klöhn Gerhardstraße 2 22926 Ahrensburg Telefon: 04102-2 17 40 07 e-Mail: thorstenkloehn@gmail.com Ihre Betroffenenrechte Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:&#xA;Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO), Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO), Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO), Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht löschen dürfen (Art.</description>
     </item>
     <item>
       <title>Impressum</title>
-      <link>https://thorstenkloehn.github.io/thorstenkloehn/impressum/</link>
+      <link>//localhost:1313/impressum/</link>
       <pubDate>Fri, 29 Mar 2024 22:25:10 +0100</pubDate>
-      <guid>https://thorstenkloehn.github.io/thorstenkloehn/impressum/</guid>
+      <guid>//localhost:1313/impressum/</guid>
       <description>Angaben gemäß § 5 TMG&#xA;Thorsten Klöhn Gerhardstraße 2 22926 Ahrensburg Vertreten durch: Thorsten Klöhn&#xA;Kontakt: Telefon: 04102-2 17 40 07\ E-Mail: thorstenkloehn@gmail.com Haftungsausschluss: Haftung für Inhalte Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
     </item>
   </channel>
